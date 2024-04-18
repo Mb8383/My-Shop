@@ -1,0 +1,12 @@
+F:\mohamad\tamrin\tamrin\My Shop\MobileShop.Domain\bin\Debug\net7.0\MobileShop.Domain.deps.json
+F:\mohamad\tamrin\tamrin\My Shop\MobileShop.Domain\bin\Debug\net7.0\MobileShop.Domain.dll
+F:\mohamad\tamrin\tamrin\My Shop\MobileShop.Domain\bin\Debug\net7.0\MobileShop.Domain.pdb
+F:\mohamad\tamrin\tamrin\My Shop\MobileShop.Domain\obj\Debug\net7.0\MobileShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\mohamad\tamrin\tamrin\My Shop\MobileShop.Domain\obj\Debug\net7.0\MobileShop.Domain.AssemblyInfoInputs.cache
+F:\mohamad\tamrin\tamrin\My Shop\MobileShop.Domain\obj\Debug\net7.0\MobileShop.Domain.AssemblyInfo.cs
+F:\mohamad\tamrin\tamrin\My Shop\MobileShop.Domain\obj\Debug\net7.0\MobileShop.Domain.csproj.CoreCompileInputs.cache
+F:\mohamad\tamrin\tamrin\My Shop\MobileShop.Domain\obj\Debug\net7.0\MobileShop.Domain.sourcelink.json
+F:\mohamad\tamrin\tamrin\My Shop\MobileShop.Domain\obj\Debug\net7.0\MobileShop.Domain.dll
+F:\mohamad\tamrin\tamrin\My Shop\MobileShop.Domain\obj\Debug\net7.0\refint\MobileShop.Domain.dll
+F:\mohamad\tamrin\tamrin\My Shop\MobileShop.Domain\obj\Debug\net7.0\MobileShop.Domain.pdb
+F:\mohamad\tamrin\tamrin\My Shop\MobileShop.Domain\obj\Debug\net7.0\ref\MobileShop.Domain.dll

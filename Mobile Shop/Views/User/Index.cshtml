@@ -1,0 +1,39 @@
+﻿@{
+    Layout = "_Layout";
+}
+@model MobileShop.Domain.DTOS.UserRegDTO;
+<!--section start-->
+<section class="register-page section-b-space">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h3>ایجاد حساب کاربری</h3>
+                <div class="theme-card">
+                    <form class="theme-form" asp-action=" RegisterUser" asp-controller="User" method="post">
+                        <div class="form-row row">
+                            <div class="col-md-6">
+                                <label for="email">نام کوچک</label>
+                                <input type="text" asp-for=FirstName class="form-control" id="fname" placeholder="نام کوچک" required="">
+                            </div>
+                            <div class="col-md-6">
+                                <label for="review">نام خانوادگی </label>
+                                <input type="password" asp-for=LasttName class="form-control" id="lname" placeholder="نام خانوادگی" required="">
+                            </div>
+                        </div>
+                        <div class="form-row row">
+                            <div class="col-md-6">
+                                <label for="email">ایمیل</label>
+                                <input type="text" asp-for=Email class="form-control" id="email" placeholder="ایمیل" required="">
+                            </div>
+                            <div class="col-md-6">
+                                <label for="review">پسورد </label>
+                                <input type="password" asp-for=password class="form-control" id="review" placeholder="پسورد را وارد کنید" required="">
+                            </div><button type="submit" class="btn btn-solid w-auto">ایجاد حساب کاربری</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--Section ends-->

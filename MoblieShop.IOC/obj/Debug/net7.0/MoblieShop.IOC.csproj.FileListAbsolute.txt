@@ -1,0 +1,12 @@
+F:\mohamad\tamrin\tamrin\My Shop\MoblieShop.IOC\bin\Debug\net7.0\MoblieShop.IOC.deps.json
+F:\mohamad\tamrin\tamrin\My Shop\MoblieShop.IOC\bin\Debug\net7.0\MoblieShop.IOC.dll
+F:\mohamad\tamrin\tamrin\My Shop\MoblieShop.IOC\bin\Debug\net7.0\MoblieShop.IOC.pdb
+F:\mohamad\tamrin\tamrin\My Shop\MoblieShop.IOC\obj\Debug\net7.0\MoblieShop.IOC.GeneratedMSBuildEditorConfig.editorconfig
+F:\mohamad\tamrin\tamrin\My Shop\MoblieShop.IOC\obj\Debug\net7.0\MoblieShop.IOC.AssemblyInfoInputs.cache
+F:\mohamad\tamrin\tamrin\My Shop\MoblieShop.IOC\obj\Debug\net7.0\MoblieShop.IOC.AssemblyInfo.cs
+F:\mohamad\tamrin\tamrin\My Shop\MoblieShop.IOC\obj\Debug\net7.0\MoblieShop.IOC.csproj.CoreCompileInputs.cache
+F:\mohamad\tamrin\tamrin\My Shop\MoblieShop.IOC\obj\Debug\net7.0\MoblieShop.IOC.sourcelink.json
+F:\mohamad\tamrin\tamrin\My Shop\MoblieShop.IOC\obj\Debug\net7.0\MoblieShop.IOC.dll
+F:\mohamad\tamrin\tamrin\My Shop\MoblieShop.IOC\obj\Debug\net7.0\refint\MoblieShop.IOC.dll
+F:\mohamad\tamrin\tamrin\My Shop\MoblieShop.IOC\obj\Debug\net7.0\MoblieShop.IOC.pdb
+F:\mohamad\tamrin\tamrin\My Shop\MoblieShop.IOC\obj\Debug\net7.0\ref\MoblieShop.IOC.dll

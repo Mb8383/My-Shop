@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MobileShop.Application/1.0.0": {
+        "dependencies": {
+          "MobileShop.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MobileShop.Application.dll": {}
+        }
+      },
+      "MobileShop.Domain/1.0.0": {
+        "runtime": {
+          "MobileShop.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MobileShop.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MobileShop.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,30 @@
+F:\mohamad\tamrin\tamrin\My Shop\Mobile Shop\bin\Release\net7.0\appsettings.Development.json
+F:\mohamad\tamrin\tamrin\My Shop\Mobile Shop\bin\Release\net7.0\appsettings.json
+F:\mohamad\tamrin\tamrin\My Shop\Mobile Shop\bin\Release\net7.0\Mobile Shop.staticwebassets.runtime.json
+F:\mohamad\tamrin\tamrin\My Shop\Mobile Shop\bin\Release\net7.0\Mobile Shop.exe
+F:\mohamad\tamrin\tamrin\My Shop\Mobile Shop\bin\Release\net7.0\Mobile Shop.deps.json
+F:\mohamad\tamrin\tamrin\My Shop\Mobile Shop\bin\Release\net7.0\Mobile Shop.runtimeconfig.json
+F:\mohamad\tamrin\tamrin\My Shop\Mobile Shop\bin\Release\net7.0\Mobile Shop.dll
+F:\mohamad\tamrin\tamrin\My Shop\Mobile Shop\bin\Release\net7.0\Mobile Shop.pdb
+F:\mohamad\tamrin\tamrin\My Shop\Mobile Shop\obj\Release\net7.0\Mobile Shop.GeneratedMSBuildEditorConfig.editorconfig
+F:\mohamad\tamrin\tamrin\My Shop\Mobile Shop\obj\Release\net7.0\Mobile Shop.AssemblyInfoInputs.cache
+F:\mohamad\tamrin\tamrin\My Shop\Mobile Shop\obj\Release\net7.0\Mobile Shop.AssemblyInfo.cs
+F:\mohamad\tamrin\tamrin\My Shop\Mobile Shop\obj\Release\net7.0\Mobile Shop.csproj.CoreCompileInputs.cache
+F:\mohamad\tamrin\tamrin\My Shop\Mobile Shop\obj\Release\net7.0\Mobile Shop.MvcApplicationPartsAssemblyInfo.cache
+F:\mohamad\tamrin\tamrin\My Shop\Mobile Shop\obj\Release\net7.0\Mobile Shop.RazorAssemblyInfo.cache
+F:\mohamad\tamrin\tamrin\My Shop\Mobile Shop\obj\Release\net7.0\Mobile Shop.RazorAssemblyInfo.cs
+F:\mohamad\tamrin\tamrin\My Shop\Mobile Shop\obj\Release\net7.0\staticwebassets.build.json
+F:\mohamad\tamrin\tamrin\My Shop\Mobile Shop\obj\Release\net7.0\staticwebassets.development.json
+F:\mohamad\tamrin\tamrin\My Shop\Mobile Shop\obj\Release\net7.0\staticwebassets\msbuild.Mobile Shop.Microsoft.AspNetCore.StaticWebAssets.props
+F:\mohamad\tamrin\tamrin\My Shop\Mobile Shop\obj\Release\net7.0\staticwebassets\msbuild.build.Mobile Shop.props
+F:\mohamad\tamrin\tamrin\My Shop\Mobile Shop\obj\Release\net7.0\staticwebassets\msbuild.buildMultiTargeting.Mobile Shop.props
+F:\mohamad\tamrin\tamrin\My Shop\Mobile Shop\obj\Release\net7.0\staticwebassets\msbuild.buildTransitive.Mobile Shop.props
+F:\mohamad\tamrin\tamrin\My Shop\Mobile Shop\obj\Release\net7.0\staticwebassets.pack.json
+F:\mohamad\tamrin\tamrin\My Shop\Mobile Shop\obj\Release\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\mohamad\tamrin\tamrin\My Shop\Mobile Shop\obj\Release\net7.0\scopedcss\bundle\Mobile Shop.styles.css
+F:\mohamad\tamrin\tamrin\My Shop\Mobile Shop\obj\Release\net7.0\scopedcss\projectbundle\Mobile Shop.bundle.scp.css
+F:\mohamad\tamrin\tamrin\My Shop\Mobile Shop\obj\Release\net7.0\Mobile Shop.dll
+F:\mohamad\tamrin\tamrin\My Shop\Mobile Shop\obj\Release\net7.0\refint\Mobile Shop.dll
+F:\mohamad\tamrin\tamrin\My Shop\Mobile Shop\obj\Release\net7.0\Mobile Shop.pdb
+F:\mohamad\tamrin\tamrin\My Shop\Mobile Shop\obj\Release\net7.0\Mobile Shop.genruntimeconfig.cache
+F:\mohamad\tamrin\tamrin\My Shop\Mobile Shop\obj\Release\net7.0\ref\Mobile Shop.dll
