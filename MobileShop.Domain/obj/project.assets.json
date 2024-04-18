@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\mohamad\\tamrin\\tamrin\\My Shop\\MobileShop.Domain\\MobileShop.Domain.csproj",
+      "projectUniqueName": "F:\\mohamad\\My Shop\\MobileShop.Domain\\MobileShop.Domain.csproj",
       "projectName": "MobileShop.Domain",
-      "projectPath": "F:\\mohamad\\tamrin\\tamrin\\My Shop\\MobileShop.Domain\\MobileShop.Domain.csproj",
+      "projectPath": "F:\\mohamad\\My Shop\\MobileShop.Domain\\MobileShop.Domain.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "F:\\mohamad\\tamrin\\tamrin\\My Shop\\MobileShop.Domain\\obj\\",
+      "outputPath": "F:\\mohamad\\My Shop\\MobileShop.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

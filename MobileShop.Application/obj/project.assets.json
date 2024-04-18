@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\mohamad\\tamrin\\tamrin\\My Shop\\MobileShop.Application\\MobileShop.Application.csproj",
+      "projectUniqueName": "F:\\mohamad\\My Shop\\MobileShop.Application\\MobileShop.Application.csproj",
       "projectName": "MobileShop.Application",
-      "projectPath": "F:\\mohamad\\tamrin\\tamrin\\My Shop\\MobileShop.Application\\MobileShop.Application.csproj",
+      "projectPath": "F:\\mohamad\\My Shop\\MobileShop.Application\\MobileShop.Application.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "F:\\mohamad\\tamrin\\tamrin\\My Shop\\MobileShop.Application\\obj\\",
+      "outputPath": "F:\\mohamad\\My Shop\\MobileShop.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "F:\\mohamad\\tamrin\\tamrin\\My Shop\\MobileShop.Domain\\MobileShop.Domain.csproj": {
-              "projectPath": "F:\\mohamad\\tamrin\\tamrin\\My Shop\\MobileShop.Domain\\MobileShop.Domain.csproj"
+            "F:\\mohamad\\My Shop\\MobileShop.Domain\\MobileShop.Domain.csproj": {
+              "projectPath": "F:\\mohamad\\My Shop\\MobileShop.Domain\\MobileShop.Domain.csproj"
             }
           }
         }

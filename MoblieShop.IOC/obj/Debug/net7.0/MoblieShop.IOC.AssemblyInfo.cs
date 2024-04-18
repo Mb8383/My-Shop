@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MoblieShop.IOC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6613ace0a7fd54f431dec69e61b1e7a8c832ae37")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68909c57056c06aefbab67bd6c5ea785332ed73b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MoblieShop.IOC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MoblieShop.IOC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

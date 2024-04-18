@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "11fPCCjmzqg3zhFDoMxhzkLswtulqUA4Djhkj3Z0aqFcJxTLQWO9FOlpZTfWifuFg54cJxch0CZBx+TIAXOCYw==",
+  "dgSpecHash": "KDA6EgeIdfGCjcHv+nmizSqiCJIp+7abG/NYkPo/1d2P2kDleKdE9rbKdiHXDUX6vAdLQheZwhZfh4slHhMCew==",
   "success": true,
-  "projectFilePath": "F:\\mohamad\\tamrin\\tamrin\\My Shop\\Mobile Shop\\Mobile Shop.csproj",
+  "projectFilePath": "F:\\mohamad\\My Shop\\Mobile Shop\\Mobile Shop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
